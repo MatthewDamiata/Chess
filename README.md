@@ -1,5 +1,6 @@
-#Chess Project from CS220
-##Matthew Damiata, Benjamin Keurian, Joshua Szachar
+# Chess Project from CS220
+## Matthew Damiata, Benjamin Keurian, Joshua Szachar
+
 Compiling the project  
 ```bash
 bash
