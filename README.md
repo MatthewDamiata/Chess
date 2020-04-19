@@ -1,10 +1,5 @@
-# Project 1
-
-| Value      | Due Date             |
-| ---------- | -------------------- |
-| 100 points | Mar 31 2020, 11:59pm |
-## Chess Project from CS220
-# Matthew Damiata, Benjamin Keurian, Joshua Szachar
+#Chess Project from CS220
+##Matthew Damiata, Benjamin Keurian, Joshua Szachar
 Compiling the project  
 ```bash
 bash
