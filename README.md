@@ -1,5 +1,6 @@
-# Chess Project from CS220
-## Matthew Damiata, Benjamin Keurian, Joshua Szachar
+# Chess 
+## CS220 - Spring 2020
+## Team Project: Matthew Damiata, Benjamin Keurian, Joshua Szachar
 
 Compiling the project  
 ```bash
@@ -11,5 +12,5 @@ Running the project
 ```bash
 ./test "r3k2K/pppp4/8/8/8/8/p7/8 b q -"
 ```
-
-Skeleton code and librefimpl.so provided by professor.
+## Credit
+Skeleton code, assignment, and librefimpl.so file provided by Aravind Prakash from CS220 "Arch from a Prog Perspective" class at Binghamton University.
